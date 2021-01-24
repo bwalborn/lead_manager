@@ -124,6 +124,9 @@ env.bak/
 venv.bak/
 pythonenv*
 
+# Secret_key 
+secret_settings.py
+
 # Spyder project settings
 .spyderproject
 .spyproject
